@@ -44,8 +44,8 @@ def map(pos):
     elif(pos==len(tr.HELP_MSG)-1):
     
         button = [
-            [InlineKeyboardButton(text = '🗣 Contact Me!', url="https://t.me/potatospecs")],
-            [InlineKeyboardButton(text = 'Source Code', url="https://github.com/IcaRuZDaedalus/fsubfork")],
+            [InlineKeyboardButton(text = '🗣 Contact Me!', url="https://t.me/cw_perfect")],
+            [InlineKeyboardButton(text = 'Source Code', url="https://telegra.ph/file/f30d29cafa026c7866873.jpg")],
             [InlineKeyboardButton(text = '⏪', callback_data = f"help+{pos-1}")]
         ]
     else:
