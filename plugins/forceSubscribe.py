@@ -54,7 +54,7 @@ def _check_member(client, message):
              caption = "**ഹായ് {},നിങ്ങൾ ഇപ്പോഴും ചാനലിൽ ജോയിൻ ചെയ്തിട്ടില്ല ജോയിൻ ചെയ്യാൻ [ഇവിടെ ക്ലിക്ക് ചെയുക](https://t.me/{})\nശേഷം താഴെയുള്ള    '🔉 UnMute Me 🔊'  ബട്ടൺ അമർത്തുക\n\n⭕️NB:ഈ മെസ്സേജ് വേഗം ഡിലീറ്റ് ആകും അതുകൊണ്ട് ഇപ്പോൾ തന്നെ ജോയിൻ ചെയ്യുക.**".format(message.from_user.mention, channel, channel),
              reply_markup=InlineKeyboardMarkup(
                  [[InlineKeyboardButton("🔉 UnMute Me 🔊", callback_data="onUnMuteRequest")]], 
-                 [[InlineKeyboardButton("💬 Subscribe", url=url)]]
+                 [[InlineKeyboardButton("💬 Subscribe", url=https://t.me/{})]]
              )
           )
           client.restrict_chat_member(chat_id, user_id, ChatPermissions(can_send_messages=False))
