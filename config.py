@@ -17,7 +17,7 @@ class Messages():
         
         "[⚙](https://telegra.ph/file/bf0afdc7c1b3b0ab6c088.jpg) **SETUP :**\n\nFirst Of All Add Me In The Group As Admin With Ban Users Permission And In The Channel As Admin.\n● Note: Only Creator Of The Group Can Setup Me.",
         
-        "[⚙](https://telegra.ph/file/353321e1fae6097c0f397.jpg) **COMMMANDS :**\n\n/ForceSubscribe - To Get The Current Settings.\n/ForceSubscribe no/off/disable - To Turn Of ForceSubscribe.\n/ForceSubscribe {Channel Username} - To Turn On And Setup The Channel.\n/ForceSubscribe clear - To Unmute All Members Who Muted By Me.\n\n● by @potatospecs Note: /FSub Is An Alias Of /ForceSubscribe",
+        "[⚙](https://telegra.ph/file/353321e1fae6097c0f397.jpg) **COMMMANDS :**\n\n/ForceSubscribe - To Get The Current Settings.\n/ForceSubscribe no/off/disable - To Turn Of ForceSubscribe.\n/ForceSubscribe {Channel Username} - To Turn On And Setup The Channel.\n/ForceSubscribe clear - To Unmute All Members Who Muted By Me.\n\n● by @cw_perfect Note: /FSub Is An Alias Of /ForceSubscribe",
         
         "[👨‍💻](https://telegra.ph/file/37201b58e4f2e17f83916.jpg) **By @cw_perfect**"
       ]
