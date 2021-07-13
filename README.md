@@ -4,7 +4,7 @@
 <h4 align="center">A Telegram Bot to force users to join a specific channel before sending messages in a group.</h4>
 
 # 🤖 Demo :
-Find it On Telegram As [@ForceSubscribeRobot](https://t.me/ForceSubscribeRoBot)
+Find it On Telegram As [@cw_force_bot](http://t.me/cw_force_bot)
 
 # 👨‍💻 Deploy:
 ### -Easy Way
