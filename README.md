@@ -33,5 +33,5 @@ python3 bot.py
 
 
 ## 👨‍💻 Credits :
-Special Thanks To [@AdnanAhmad](https://github.com/viperadnan-git) & [@AmineSoukara](https://github.com/AmineSoukara) & [@Pyrogram](https://github.com/Pyrogram)
+Repo maked by: [@AdnanAhmad](https://github.com/viperadnan-git) & [@AmineSoukara](https://github.com/AmineSoukara) & [@Pyrogram](https://github.com/Pyrogram)
 ## 🖤 Original Repo : [Github@Viperadnan-Git](https://github.com/viperadnan-git/force-subscribe-telegram-bot)
