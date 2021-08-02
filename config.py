@@ -22,4 +22,4 @@ class Messages():
         "[👨‍💻](https://telegra.ph/file/37201b58e4f2e17f83916.jpg) **By @cw_perfect**"
       ]
 
-      START_MSG = "**Hey [👋](https://telegra.ph/file/949e5d7d1bcaad44f6c68.jpg) [{}](tg://user?id={})**\n\n⭕️ I Can Force Members To Join A Specific Channel Before Writing Messages In The Group.\n And You Know One Thing Am A Malayalam Version⭕️\n\nRead More At 👉 /help"
+      START_MSG = "**Hey [👋](https://telegra.ph/file/949e5d7d1bcaad44f6c68.jpg) [{}](tg://user?id={})**\n\n⭕️ I Can Force Members To Join A Specific Channel Before Writing Messages In The Group.\n And You Know One Thing Am A Malayalam Version\n⭕Read More At 👉 /help"
